@@ -271,7 +271,6 @@
   <project path="external/zlib" name="platform/external/zlib" groups="pdk" />
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" />
   <project path="frameworks/base" name="platform/frameworks/base" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
@@ -488,7 +487,7 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
 
-
+  <project path="frameworks/av" name="android_frameworks_av" revision="nanopi2_marshmallow" remote="enochcheng" />
   <project path="device/friendly-arm/nanopi2" name="android_device_friendly-arm_nanopi2" remote="enochcheng" revision="refs/heads/nanopi2-marshmallow" groups="device,nanopi2" />
   <project path="hardware/samsung_slsi/slsiap" name="android_hardware_samsung_slsi_slsiap" remote="enochcheng" revision="refs/heads/s5p4418-marshmallow" groups="slsiap" />
   <project path="vendor/broadcom/nanopi2" name="android_vendor_broadcom_nanopi2" remote="friendlyarm" revision="refs/heads/nanopi2-lollipop-mr1" />
