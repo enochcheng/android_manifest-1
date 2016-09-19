@@ -5,7 +5,7 @@
            fetch="https://android.googlesource.com" />
 
   <remote  name="friendlyarm"
-           fetch="https://github.com/friendly-arm"
+           fetch="https://github.com/friendlyarm"
            revision="refs/heads/s5p4418-lollipop-mr1" />
 
   <remote  name="enochcheng"
