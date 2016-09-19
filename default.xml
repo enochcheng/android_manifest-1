@@ -495,5 +495,6 @@
   <project path="vendor/friendly-arm/nanopi2" name="android_vendor_friendly-arm_nanopi2" remote="friendlyarm" revision="refs/heads/nanopi2-lollipop-mr1" groups="nanopi2" />
   <project path="vendor/friendly-arm/apps" name="android_vendor_friendly-arm_apps" remote="friendlyarm" revision="refs/heads/nanopi2-lollipop-mr1" />
   <project path="vendor/nexell/s5p4418" name="nexell_platform_s5p4418" remote="enochcheng" revision="refs/heads/nanopi2-marshmallow" />
+  <project path="sd-fuse_nanopi2" name="sd-fuse_nanopi2" remote="enochcheng" revision="refs/heads/master" />
 
 </manifest>
