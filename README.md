@@ -1,6 +1,14 @@
 # nanopi_android_manifest
 Nanopi manifest for marshmallow
 
+Prerequisites
+-------------
+```
+$ sudo apt-get install bison g++-multilib git gperf libxml2-utils make python-networkx zip
+$ sudo apt-get install flex libncurses5-dev zlib1g-dev gawk minicom
+```
+
+
 
 Prepare the workspace and download sources
 ------------------------------------------
